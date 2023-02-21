@@ -10,7 +10,7 @@ To use this project, you'll need to do the following:
 
 * Import the project into STM32CubeIDE and flash it to the board.
 
-Power on the board and turn the potentiometer to control the position of the servo motor.
+* Power on the board and turn the potentiometer to control the position of the servo motor.
 
 ## Code Overview
 The project code is written in C and consists of three main files:
