@@ -1,4 +1,4 @@
-#STM32 Servo Control using Potentiometer
+# STM32 Servo Control using Potentiometer
 This project is a simple demonstration of how to control a servo motor using a potentiometer and an STM32 microcontroller. The project was created using the STM32CubeIDE development environment and is based on the STM32F4-Discovery board.
 
 ## Setup
